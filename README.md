@@ -246,8 +246,6 @@ const kineticBlueprint = {
 
 ## 🌍 Impact & Reach
 
-- **Target Users**: 100+ million athletes across India
-- **Coverage**: All 28 states and 8 union territories
 - **Accessibility**: Works on smartphones costing ₹5,000+
 - **Languages**: Hindi, English (with regional language support planned)
 
@@ -261,12 +259,7 @@ const kineticBlueprint = {
 
 ## 👥 Team & Contributors
 
-Developed for Smart India Hackathon 2024
-- AI/ML Engineering
-- Mobile App Development  
-- Backend Architecture
-- UI/UX Design
-- Data Analytics
+Developed for Smart India Hackathon 2025
 
 ## 📜 License
 
@@ -275,12 +268,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🤝 Contributing
 
 We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
-
-## 📞 Support
-
-For support and queries:
-- Email: support@kheldristi.com
-- GitHub Issues: [Create an issue](https://github.com/aryamanpathak2022/Khel-Dristi/issues)
 
 ---
 
